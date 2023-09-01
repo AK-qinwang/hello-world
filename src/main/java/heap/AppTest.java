@@ -16,5 +16,6 @@ public class AppTest {
         heap.heapSort(a2,a2.length);
         System.out.println(heap.countNum);
         //heap.print();
+        System.out.println("I change something");
     }
 }
